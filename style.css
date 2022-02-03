@@ -1,0 +1,160 @@
+body{
+    background-color: #F7F7F7;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+/* CFFFDC */
+
+h1{
+    font-size: 5rem;
+    padding-top: 100px;
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    margin: 10px auto 10px auto;
+    font-weight: normal;
+    font-size: 2rem;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin-top: 30px;
+    padding-bottom: 10px;
+
+}
+
+hr{
+    border: dotted #C1DEAE 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 40px auto;
+}
+
+p{
+    line-height: 2;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 100px;
+    top: 60px;   
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 100px;
+    bottom: 300px;
+}
+
+.profile1{
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.intro{
+    width: 40%;
+    margin: auto;
+}
+
+.skill-text{
+    padding-top: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img{
+    margin: 70px 30px 20px auto;
+    width: 25%;
+    float: left;
+}
+
+.edu-img{
+    margin: 20px 30px 20px auto;
+    width: 25%;
+    float: left;
+}
+
+.python-img{
+    margin: 70px auto 20px 30px;
+    width: 25%;
+    float: right;
+}
+
+.contact-me{
+    line-height: 2;
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+}
+
+.contact-text{
+    margin: 20px auto 50px;
+}
+
+.btn{
+    font-size: .8em;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    background: #45b29a;
+    padding: 0.6em 0.9em;
+    color: #1b7f69;
+    text-decoration: none;
+    margin: auto;
+    border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.copyright{
+    color: #EEE6CE;
+    font-size: 0.9rem;
+    padding: 10px 0;
+}
