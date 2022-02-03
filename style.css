@@ -64,19 +64,6 @@ a{
 }
 
 
-.top-cloud{
-    position: absolute;
-    right: 100px;
-    top: 60px;   
-}
-
-
-.bottom-cloud{
-    position: absolute;
-    left: 100px;
-    bottom: 300px;
-}
-
 .profile1{
     width: 20%;
     margin-bottom: 10px;
